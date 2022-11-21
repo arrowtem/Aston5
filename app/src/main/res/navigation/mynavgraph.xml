@@ -23,7 +23,6 @@
         <action
             android:id="@+id/action_usersFragment_to_informationFragment"
             app:destination="@id/informationFragment"
-            app:popUpTo="@+id/mynavgraph"
-            app:popUpToInclusive="true"/>
+           />
     </fragment>
 </navigation>
